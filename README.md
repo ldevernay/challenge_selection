@@ -77,7 +77,8 @@ Un moteur de tri et de recherche permet de n'afficher qu'un certain nombre de cr
 * Vous n'avez que quelques jours alors soyez organisés.
 * Chaque promo bosse en commun sur ce projet alors soyez organisés.
 * Astuce : n'hésitez pas à faire un Taïga/Trello.
-* Chaque équipe de formateur vous fournira la date de rendu. N'oubliez pas de leur envoyer le résultat à temps avec le repo github et le lien vers la version en ligne.
-* Chaque promo doit faire un point projet par mail chaque jour (ce qui a été fait, ce qui reste à faire, quels problèmes ont été rencontrés), à destination de l'ensemble de vos formateurs.
 * Faites quelque chose de responsif et de **ludique**. [Le game design, ce n'est pas si difficile.](https://github.com/SimplonSt-Gaudens/programme-web-dev/wiki/Semaine-10-:-game-design)
 * Débrouillez-vous.
+* Chaque équipe de formateur vous fournira la date de rendu. N'oubliez pas de leur envoyer le résultat à temps avec le repo github et le lien vers la version en ligne.
+* Chaque promo doit faire un point projet par mail chaque jour (ce qui a été fait, ce qui reste à faire, quels problèmes ont été rencontrés), à destination de l'ensemble de vos formateurs.
+* Une présentation détaillée (organisation - Trello, Git) sera organisée, à destination de l'équipe de formateurs.
