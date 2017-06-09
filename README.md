@@ -21,6 +21,8 @@ L'inscription est ouverte aux candidats. Pour cela, ils renseignent :
 * Adresse postale  (+ code postal + ville)
 * Sexe
 * Date de naissance
+* Cette formation n’ouvre pas droit à une rémunération spécifique (mais les personnes  qui bénéficient d’aides de Pôle Emploi, du RSA ou de la Mission Locale se les verront   maintenir sous réserve du respect des conditions). Comment allez-vous financer votre vie quotidienne durant les 6 mois de formation?
+* Comment avez-vous entendu parler de la formation Simplon Saint Gaudens ?
 
 (+ CAPTCHA)
 
@@ -48,6 +50,16 @@ Sur cette page, le candidat est amené à renseigner plusieurs champs le concern
 ### Questionnaire  
 Là, le candidat répond à dix questions.
 Des exemples de questions sont fournis dans le fichier Excel mis à disposition sur le repository.
+* Si vous étiez un super héros/une super héroïne, qui seriez-vous et pourquoi?
+* Avez vous déjà eu une expérience avec la programmation et/ou l'informatique avant de remplir ce formulaire ?
+* Racontez-nous un de vos "hacks" (pas forcément technique ou informatique)
+* Quel est le dernier diplôme que vous ayez obtenu ?
+* Racontez-nous en quelques phrases votre parcours.
+* Quel est votre niveau d'anglais (lu/écrit) ?
+* Dites nous pourquoi vous voulez intégrer Simplon. Racontez-nous votre parcours et détaillez-nous votre motivation ci-dessous, en vous exprimant avec votre style à vous, mais ne vous limitez pas à un texte tapé à la va-vite. Aussi, n'hésitez pas à faire une vidéo, un site ou tout autre chose qui démontrera votre envie, votre motivation, et vos compétences !
+* Dans un an, avec vos nouveaux superpouvoirs de code informatique, que souhaiterez-vous faire dans votre vie ?
+* Si vous avez un profil Openclassrooms, Codeschool ou autre, indiquez nous votre profil
+8 mois à temps plein (35h/semaine) ? Si non, quelles sont vos contraintes ?
 **Pour chaque question à laquelle il a répondu, le score du candidat augmente de 5%**  
 
 ### Remarques globales  
@@ -78,7 +90,7 @@ Un moteur de tri et de recherche permet de n'afficher qu'un certain nombre de cr
 * Chaque promo bosse en commun sur ce projet alors soyez organisés.
 * Astuce : n'hésitez pas à faire un Taïga/Trello.
 * Faites quelque chose de responsif et de **ludique**. [Le game design, ce n'est pas si difficile.](https://github.com/SimplonSt-Gaudens/programme-web-dev/wiki/Semaine-10-:-game-design)
-* Débrouillez-vous.
 * Chaque équipe de formateur vous fournira la date de rendu. N'oubliez pas de leur envoyer le résultat à temps avec le repo github et le lien vers la version en ligne.
 * Chaque promo doit faire un point projet par mail chaque jour (ce qui a été fait, ce qui reste à faire, quels problèmes ont été rencontrés), à destination de l'ensemble de vos formateurs.
 * Une présentation détaillée (organisation - Trello, Git) sera organisée, à destination de l'équipe de formateurs.
+* Montrez-nous de quoi vous êtes capables!
